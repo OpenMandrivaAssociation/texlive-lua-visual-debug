@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-lua-visual-debug
 Version:	0.1
-Release:	1
+Release:	2
 Summary:	Visual debugging with LuaLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/luatex/generic/lua-visual-debug
