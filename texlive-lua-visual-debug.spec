@@ -1,12 +1,12 @@
-# revision 25517
+# revision 25586
 # category Package
 # catalog-ctan /macros/luatex/generic/lua-visual-debug
-# catalog-date 2012-02-26 08:44:52 +0100
+# catalog-date 2012-03-08 17:13:30 +0100
 # catalog-license other-free
-# catalog-version 0.1
+# catalog-version 0.3
 Name:		texlive-lua-visual-debug
-Version:	0.1
-Release:	2
+Version:	0.3
+Release:	1
 Summary:	Visual debugging with LuaLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/luatex/generic/lua-visual-debug
