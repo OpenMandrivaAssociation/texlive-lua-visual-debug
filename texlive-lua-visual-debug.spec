@@ -1,11 +1,11 @@
-# revision 25586
+# revision 25881
 # category Package
 # catalog-ctan /macros/luatex/generic/lua-visual-debug
-# catalog-date 2012-03-08 17:13:30 +0100
+# catalog-date 2012-04-08 13:49:02 +0200
 # catalog-license other-free
-# catalog-version 0.3
+# catalog-version 0.4
 Name:		texlive-lua-visual-debug
-Version:	0.3
+Version:	0.4
 Release:	1
 Summary:	Visual debugging with LuaLaTeX
 Group:		Publishing
@@ -36,12 +36,15 @@ package is known to work in LaTeX and Plain TeX documents.
 %{_texmfdistdir}/tex/luatex/lua-visual-debug/lua-visual-debug.lua
 %{_texmfdistdir}/tex/luatex/lua-visual-debug/lua-visual-debug.sty
 %doc %{_texmfdistdir}/doc/luatex/lua-visual-debug/README
+%doc %{_texmfdistdir}/doc/luatex/lua-visual-debug/README.doc
 %doc %{_texmfdistdir}/doc/luatex/lua-visual-debug/lvdebug-doc.pdf
 %doc %{_texmfdistdir}/doc/luatex/lua-visual-debug/lvdebug-doc.tex
+%doc %{_texmfdistdir}/doc/luatex/lua-visual-debug/lvdebugdetail1-num.png
 %doc %{_texmfdistdir}/doc/luatex/lua-visual-debug/sample-plain.pdf
 %doc %{_texmfdistdir}/doc/luatex/lua-visual-debug/sample-plain.tex
 %doc %{_texmfdistdir}/doc/luatex/lua-visual-debug/sample.pdf
 %doc %{_texmfdistdir}/doc/luatex/lua-visual-debug/sample.tex
+%doc %{_texmfdistdir}/doc/luatex/lua-visual-debug/strut.png
 
 #-----------------------------------------------------------------------
 %prep
