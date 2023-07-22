@@ -1,6 +1,6 @@
 Name:		texlive-lua-visual-debug
-Version:	57349
-Release:	2
+Version:	65464
+Release:	1
 Summary:	Visual debugging with LuaLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/luatex/generic/lua-visual-debug
